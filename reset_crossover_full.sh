@@ -77,4 +77,4 @@ if [ -d "$BOTTLE_PATH" ]; then
 else
     echo -e "${RED}Ошибка: Директория бутылки '$BOTTLE_PATH' не найдена. Проверьте имя бутылки.${RESET}"
 fi
-echo -e "${GREEN}Операция завершена. Теперь можно запускать CrossOver и проверить с 'defaults read com.codeweavers.CrossOver FirstRunDate'.${RESET}"
+echo -e "${GREEN}Операция завершена. Теперь можно запускать CrossOver.${RESET}"
