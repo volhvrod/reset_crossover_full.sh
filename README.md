@@ -48,7 +48,7 @@ chmod +x reset_crossover_full.sh
 Для ручного сброса просто запустите скрипт в Терминале:
 
 ```bash
-./reset_crossover_full.sh
+sudo ./reset_crossover_full.sh
 ```
 
 ### 2\. Автоматический запуск (рекомендуется)
